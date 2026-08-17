@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou a Maria Eduarda!
 
-# Olá! Eu sou Maria Eduarda 👋
-
  Estudante de Computação
  Atualmente estudando programação e desenvolvendo meus primeiros projetos
  Em busca de aprender cada vez mais e construir minha carreira na área de tecnologia
