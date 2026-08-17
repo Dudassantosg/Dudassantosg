@@ -4,7 +4,7 @@
  Atualmente estudando programação e desenvolvendo meus primeiros projetos
  Em busca de aprender cada vez mais e construir minha carreira na área de tecnologia
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 * Python
 * Lógica de Programação
@@ -23,7 +23,7 @@
 Meu primeiro projeto de programação, desenvolvido para praticar conceitos básicos de Python, como variáveis, operadores, entrada de dados e estruturas condicionais.
 
 
-## 🎯 Objetivo
+##  Objetivo
 
 Estou construindo minha experiência na área de tecnologia por meio da faculdade, estudos e projetos práticos, buscando evoluir continuamente minhas habilidades de programação.
 
